@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to My personal fork
 
-You can use the [editor on GitHub](https://github.com/abrusell/Tartagenia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+How to annotate and prioritize your genomic variants
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Germinal variants
 
-### Markdown
+Almost done
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Somatic variants
+
+To be done 
+
+
+
 
 ```markdown
 Syntax highlighted code block
